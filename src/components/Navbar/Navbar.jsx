@@ -1,5 +1,5 @@
 import { useState } from "react";
-import logo from "/Navbar/logo.png";
+import logo from "/Navbar/logo.webp";
 import menu from "/Navbar/menu.svg";
 import discord from "/Navbar/discord.svg";
 import close1 from "/Navbar/close1.svg";
